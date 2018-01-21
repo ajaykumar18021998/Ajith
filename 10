@@ -1,0 +1,6 @@
+dig=int(input("Enter the number:"))
+add=0
+while(dig>0):
+    sum=add+1;
+    dig=dig//10
+print(sum)
